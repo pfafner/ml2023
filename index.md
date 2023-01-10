@@ -24,7 +24,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
 
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Recursos**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  01       | 10.01.2023   | Introducción. <br/>                                                 | 
+  01       | 12.01.2023   | Introducción. <br/>                                                 | 
 
 
 # Material adicional (scripts)
@@ -32,7 +32,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
 
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Material**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  00       | 10.01.2023   | Instalación de librerías y ambiente de trabajo Python Anaconda, Jupyter-lab.  | [Anaconda+Tensorflow+Jupyter installation guide](otros/Anaconda+Tensorflow+Jupyter_installation_guide.pdf){:target="_blank"} <br/> *Archivos auxiliares:* [plotmatrix.py](otros/plotmatrix.py){:target="_blank"} [test.ipynb](otros/test.ipynb){:target="_blank"}
+  00       | 12.01.2023   | Instalación de librerías y ambiente de trabajo Python Anaconda, Jupyter-lab.  | [Anaconda+Tensorflow+Jupyter installation guide](otros/Anaconda+Tensorflow+Jupyter_installation_guide.pdf){:target="_blank"} <br/> *Archivos auxiliares:* [plotmatrix.py](otros/plotmatrix.py){:target="_blank"} [test.ipynb](otros/test.ipynb){:target="_blank"}
 
 
 # Referencias
