@@ -25,7 +25,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Recursos**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
   01       | 12.01.2023   | Introducción al curso. ML y Data Science. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
-  02       | 17.01.2023   | Repaso de estadìstica y probabilidad. <br/>  | 
+  02       | 17.01.2023   | Repaso de estadística y probabilidad. <br/>  | 
+  03       | 19.01.2023   | Distribución teórica y distribución empírica.  <br/>  | 
 
 
 # Material adicional (scripts)
