@@ -36,7 +36,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Material**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
   00       | 12.01.2023   | Instalación de librerías y ambiente de trabajo Python Anaconda, Jupyter-lab.  | [Anaconda+Tensorflow+Jupyter installation guide](otros/Anaconda+Tensorflow+Jupyter_installation_guide.pdf){:target="_blank"} <br/> *Archivos auxiliares:* [plotmatrix.py](otros/plotmatrix.py){:target="_blank"} [test.ipynb](otros/test.ipynb){:target="_blank"}
-  04       | 24.01.2023   | Generación de muestras aleatorias en Python. Histogramas, densidad y distribución. | [aula04.ipynb](aulas/aula04.ipynb){:target="_blank"}
+  04       | 24.01.2023   | Generación de muestras aleatorias en Python. Histogramas, densidad y distribución. | [aula04.ipynb](scripts/aula04.ipynb){:target="_blank"}
 
 
 # Referencias
