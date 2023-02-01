@@ -30,7 +30,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   04       | 24.01.2023   | Variables aleatorias. Densidad y Función de Distribución. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Ver *aula04.ipynb*. 
   05       | 26.01.2023   | Estadísticos. Media, mediana y moda. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Ver *aula05.ipynb*. 
   L1       | 26.01.2023   | Lista 01.                                  | [Lista 01](listas/lista01.pdf){:target="_blank"} [penguins.csv](listas/penguins.csv){:target="_blank"} [tips.csv](listas/tips.csv){:target="_blank"} <br/> **Fecha de Entrega: jueves 2 de febrero.** 
-  06       | 31.01.2023   | Covarianza y correlación. Entropía e Información mutua.  | <br/> [Aula 05a](aulas/Aula05a.pdf){:target="_blank"} [Aula 05b](aulas/Aula05b.pdf){:target="_blank"}  [Aula 05c](aulas/Aula05c.pdf){:target="_blank"}
+  06       | 31.01.2023   | Covarianza y correlación. Distribución normal multivariada. <br/> [Aula 05a](aulas/Aula05a.pdf){:target="_blank"} [Aula 05b](aulas/Aula05b.pdf){:target="_blank"}  [Aula 05c](aulas/Aula05c.pdf){:target="_blank"}  | Ver *aula06.ipynb*.
   
 
 # Material adicional (scripts)
@@ -41,7 +41,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   00       | 12.01.2023   | Instalación de librerías y ambiente de trabajo Python Anaconda, Jupyter-lab.  | [Anaconda+Tensorflow+Jupyter installation guide](otros/Anaconda+Tensorflow+Jupyter_installation_guide.pdf){:target="_blank"} <br/> *Archivos auxiliares:* [plotmatrix.py](otros/plotmatrix.py){:target="_blank"} [test.ipynb](otros/test.ipynb){:target="_blank"}
   04       | 24.01.2023   | Generación de muestras aleatorias en Python. Histogramas, densidad y distribución. | [aula04.ipynb](scripts/aula04.ipynb){:target="_blank"}
   05       | 26.01.2023   | Exploración de datos (EDA). Gráficos y otros plots. | [aula05.ipynb](scripts/aula05.ipynb){:target="_blank"}
-  06       | 31.01.2023   | Distribuciones multivariadas. Covarianza, correlación. Entropía. | 
+  06       | 31.01.2023   | Distribuciones multivariadas. Covarianza, correlación. Entropía. | [centrar_datos.ipynb](scripts/centrar_datos.ipynb){:target="_blank"} [aula06.ipynb](scripts/aula06.ipynb){:target="_blank"}
 
 
 # Referencias
