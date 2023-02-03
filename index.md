@@ -42,6 +42,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   04       | 24.01.2023   | Generación de muestras aleatorias en Python. Histogramas, densidad y distribución. | [aula04.ipynb](scripts/aula04.ipynb){:target="_blank"}
   05       | 26.01.2023   | Exploración de datos (EDA). Gráficos y otros plots. | [aula05.ipynb](scripts/aula05.ipynb){:target="_blank"}
   06       | 31.01.2023   | Distribuciones multivariadas. Covarianza, correlación. Entropía. | [aula06a.ipynb](scripts/aula06a.ipynb){:target="_blank"} [aula06b.ipynb](scripts/aula06b.ipynb){:target="_blank"}
+  07       | 02.02.2023   | Presentacines y discusión de análisis de datos. Técnicas de visualización. | 
 
 
 # Referencias
