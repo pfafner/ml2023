@@ -31,6 +31,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   05       | 26.01.2023   | Estadísticos. Media, mediana y moda. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Ver *aula05.ipynb*. 
   L1       | 26.01.2023   | Lista 01.                                  | [Lista 01](listas/lista01.pdf){:target="_blank"} [penguins.csv](listas/penguins.csv){:target="_blank"} [tips.csv](listas/tips.csv){:target="_blank"} <br/> **Fecha de Entrega: jueves 2 de febrero.** 
   06       | 31.01.2023   | Covarianza y correlación. Distribución normal multivariada. <br/> [Aula 05a](aulas/Aula05a.pdf){:target="_blank"} [Aula 05b](aulas/Aula05b.pdf){:target="_blank"}  [Aula 05c](aulas/Aula05c.pdf){:target="_blank"}  | Ver *aula06.ipynb*.
+  07       | 02.02.2023   | Presentaciones y discusión de análisis de datos. Técnicas de visualización. |  
   
 
 # Material adicional (scripts)
@@ -42,7 +43,6 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   04       | 24.01.2023   | Generación de muestras aleatorias en Python. Histogramas, densidad y distribución. | [aula04.ipynb](scripts/aula04.ipynb){:target="_blank"}
   05       | 26.01.2023   | Exploración de datos (EDA). Gráficos y otros plots. | [aula05.ipynb](scripts/aula05.ipynb){:target="_blank"}
   06       | 31.01.2023   | Distribuciones multivariadas. Covarianza, correlación. Entropía. | [aula06a.ipynb](scripts/aula06a.ipynb){:target="_blank"} [aula06b.ipynb](scripts/aula06b.ipynb){:target="_blank"}
-  07       | 02.02.2023   | Presentacines y discusión de análisis de datos. Técnicas de visualización. | 
 
 
 # Referencias
