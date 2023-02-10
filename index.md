@@ -32,8 +32,9 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   L1       | 26.01.2023   | Lista 01.                                  | [Lista 01](listas/lista01.pdf){:target="_blank"} [penguins.csv](listas/penguins.csv){:target="_blank"} [tips.csv](listas/tips.csv){:target="_blank"} <br/> **Fecha de Entrega: jueves 2 de febrero.** 
   06       | 31.01.2023   | Covarianza y correlación. Distribución normal multivariada. <br/> [Aula 05a](aulas/Aula05a.pdf){:target="_blank"} [Aula 05b](aulas/Aula05b.pdf){:target="_blank"}  [Aula 05c](aulas/Aula05c.pdf){:target="_blank"}  | Ver *aula06.ipynb*.
   07       | 02.02.2023   | Presentaciones y discusión de análisis de datos. Técnicas de visualización. | 
-  08       | 07.02.2023   | Análisis de Componentes Principales (PCA). <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Ver *aula07.ipynb*.
-  09       | 09.02.2023   | Interpretación del PCA. Ejemplos. <br/> |  
+  08       | 07.02.2023   | Análisis de Componentes Principales (PCA). <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Ver *aula07.ipynb*.
+  09       | 09.02.2023   | PCA. Proyección de datos. Biplot e interpretación. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Ver *aula08.ipynb*.
+  10       | 14.02.2023   | Interpretación del PCA. Ejemplos. <br/> |  
   
 
 # Material adicional (scripts)
