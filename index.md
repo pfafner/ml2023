@@ -34,7 +34,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   07       | 02.02.2023   | Presentaciones y discusión de análisis de datos. Técnicas de visualización. | 
   08       | 07.02.2023   | Análisis de Componentes Principales (PCA). <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Ver *aula07.ipynb*.
   09       | 09.02.2023   | PCA. Proyección de datos. Biplot e interpretación. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Ver *aula08.ipynb*.
-  10       | 14.02.2023   | Interpretación del PCA. Ejemplos. <br/> |  
+  10       |              |          |  
+  
   
 
 # Material adicional (scripts)
