@@ -34,7 +34,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   07       | 02.02.2023   | Presentaciones y discusión de análisis de datos. Técnicas de visualización. | 
   08       | 07.02.2023   | Análisis de Componentes Principales (PCA). <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Ver *aula07.ipynb*.
   09       | 09.02.2023   | PCA. Proyección de datos. Biplot e interpretación. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Ver *aula08.ipynb*.
-  10       |              |          |  
+  10       | 14.02.2023   | Interpretación de componentes principales. Ejemplo con imágenes. | 
+  L2       | 14.02.2023   | Lista 02.                                  | [Lista 02](listas/lista02.pdf){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} [crimes.dat](listas/crimes.dat){:target="_blank"} <br/> **Fecha de Entrega: martes 28 de febrero.** 
   
   
 
@@ -49,6 +50,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   06       | 31.01.2023   | Distribuciones multivariadas. Covarianza, correlación. Entropía. | [aula06a.ipynb](scripts/aula06a.ipynb){:target="_blank"} [aula06b.ipynb](scripts/aula06b.ipynb){:target="_blank"}
   07       | 07.02.2023   | Descomposición SVD de matrices. | [aula07.ipynb](scripts/aula07.ipynb){:target="_blank"}
   08       | 09.02.2023   | Análisis de componentes. Ejemplo con datos de deportes. | [aula08.ipynb](scripts/aula08.ipynb){:target="_blank"} [deport.csv](scripts/deport.csv){:target="_blank"}
+  
 
 
 # Referencias
