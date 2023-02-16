@@ -50,7 +50,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   06       | 31.01.2023   | Distribuciones multivariadas. Covarianza, correlación. Entropía. | [aula06a.ipynb](scripts/aula06a.ipynb){:target="_blank"} [aula06b.ipynb](scripts/aula06b.ipynb){:target="_blank"}
   07       | 07.02.2023   | Descomposición SVD de matrices. | [aula07.ipynb](scripts/aula07.ipynb){:target="_blank"}
   08       | 09.02.2023   | Análisis de componentes. Ejemplo con datos de deportes. | [aula08.ipynb](scripts/aula08.ipynb){:target="_blank"} [deport.csv](scripts/deport.csv){:target="_blank"}
-  08       | 09.02.2023   | PCA en imágenes. Ejemplo de compresión de imágenes. | [aula09a.ipynb](scripts/aula09a.ipynb){:target="_blank"} [aula09b.ipynb](scripts/aula09b.ipynb){:target="_blank"} [quetzal.png](scripts/quetzal.png){:target="_blank"}
+  09       | 14.02.2023   | PCA en imágenes. Ejemplo de compresión de imágenes. | [aula09a.ipynb](scripts/aula09a.ipynb){:target="_blank"} [aula09b.ipynb](scripts/aula09b.ipynb){:target="_blank"} [quetzal.png](scripts/quetzal.png){:target="_blank"}
   
 
 
