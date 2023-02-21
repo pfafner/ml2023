@@ -52,7 +52,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   07       | 07.02.2023   | Descomposición SVD de matrices. | [aula07.ipynb](scripts/aula07.ipynb){:target="_blank"}
   08       | 09.02.2023   | Análisis de componentes. Ejemplo con datos de deportes. | [aula08.ipynb](scripts/aula08.ipynb){:target="_blank"} [deport.csv](scripts/deport.csv){:target="_blank"}
   09       | 14.02.2023   | PCA en imágenes. Ejemplo de compresión de imágenes. | [aula09a.ipynb](scripts/aula09a.ipynb){:target="_blank"} [aula09b.ipynb](scripts/aula09b.ipynb){:target="_blank"} [quetzal.png](scripts/quetzal.png){:target="_blank"}
-  
+  10       | 16.02.2023   | Escalamiento multidimensional.                      | [aula10.ipynb](scripts/aula10.ipynb){:target="_blank"} 
 
 
 # Referencias
