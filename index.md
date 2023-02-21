@@ -36,7 +36,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   09       | 09.02.2023   | PCA. Proyección de datos. Biplot e interpretación. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Ver *aula08.ipynb*.
   10       | 14.02.2023   | Interpretación de componentes principales. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | 
   L2       | 14.02.2023   | Lista 02.                                  | [Lista 02](listas/lista02.pdf){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} [crimes.dat](listas/crimes.dat){:target="_blank"} <br/> **Fecha de Entrega: martes 28 de febrero.** 
-  11       | 16.02.2023   | Escalamiento multidimensional. PCA en imágenes. <br/> | Ver *aula09a.ipynb* y *aula09b.ipynb*.
+  11       | 16.02.2023   | Escalamiento multidimensional. PCA en imágenes. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Ver *aula09a.ipynb* y *aula09b.ipynb*.
+  12       | 16.02.2023   | Escalamiento multidimensional. PCA en imágenes. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Ver *aula09a.ipynb* y *aula09b.ipynb*.
   
 
 # Material adicional (scripts)
