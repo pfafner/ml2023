@@ -38,7 +38,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   L2       | 14.02.2023   | Lista 02.                                  | [Lista 02](listas/lista02.pdf){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} [crimes.dat](listas/crimes.dat){:target="_blank"} <br/> **Fecha de Entrega: martes 28 de febrero.** 
   11       | 16.02.2023   | Escalamiento multidimensional. PCA en imágenes. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Ver *aula09a.ipynb*, *aula09b.ipynb* y *aula10.ipynb*.
   12       | 21.02.2023   | Kernep PCA. Métodos locales de proyección. <br/>  | Ver *aula11.ipynb* (pendiente). <br/> Experimentar con [Tensorflow Embedding Projector](https://projector.tensorflow.org/){:target="_blank"}
-  11       | 23.02.2023   | Escalamiento multidimensional. PCA en imágenes. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Ver *aula09a.ipynb*, *aula09b.ipynb* y *aula10.ipynb*.
+  13       | 23.02.2023   | *Manifold Learning*: IsoMap, UMap, t-SNE. <br/>   | Ver *aula12a.ipynb* y *aula12b.ipynb*.
   
 
 # Material adicional (scripts)
