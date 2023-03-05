@@ -41,6 +41,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   13       | 23.02.2023   | *Manifold Learning*: IsoMap, UMap, t-SNE. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"}  | Ver *aula12a.ipynb* y *aula12b.ipynb*.
   14       | 28.02.2023   | *Manifold Learning*: SOM. <br/> | [democracy_index.ipynb](scripts/democracy_index.ipynb){:target="_blank"} [democracy_index.csv](scripts/democracy_index.csv){:target="_blank"}
   L3       | 02.03.2023   | Lista 03.                                  | [Lista 03](listas/lista03.pdf){:target="_blank"} [wine.csv](listas/wine.csv){:target="_blank"} [hpi-data-2016.xlsx](listas/hpi-data-2016.xlsx){:target="_blank"} <br/> **Fecha de Entrega: martes 14 de marzo.** 
+  .        | 07.03.2023   |                                            |  
   
 
 # Material adicional (scripts)
