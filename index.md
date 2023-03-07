@@ -70,7 +70,7 @@ Recursos: <br/>
 Sitio web oficial de EcoBici [https://www.ecobici.cdmx.gob.mx/](https://www.ecobici.cdmx.gob.mx/){:target="_blank"} <br/>
 Datos abiertos [https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open-data](https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open-data){:target="_blank"}
 
-Sitio de Kaggle con los datos FAANG [https://www.kaggle.com/datasets/suddharshan/historical-stock-price-of-10-popular-companies](https://www.kaggle.com/datasets/suddharshan/historical-stock-price-of-10-popular-companies)]{:target="_blank"} <br/>
+Sitio de Kaggle con los datos FAANG [https://www.kaggle.com/datasets/suddharshan/historical-stock-price-of-10-popular-companies](https://www.kaggle.com/datasets/suddharshan/historical-stock-price-of-10-popular-companies){:target="_blank"} <br/>
 Sitio de Kaggle con los datos SP500 [https://www.kaggle.com/code/thomasrahman/s-p-500-5-stock-data-kmeans-clustering](https://www.kaggle.com/code/thomasrahman/s-p-500-5-stock-data-kmeans-clustering){:target="_blank"}
 
 
