@@ -62,6 +62,26 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   13       | 28.02.2023   | Ejemplo de SOM con pingüinos.                       | [aula13.ipynb](scripts/aula13.ipynb){:target="_blank"}  
   
 
+# Primer Proyecto
+<div id='id-prj1'/>
+
+Análisis de datos de EcoBici / Análisis de datos SP500. <br/>
+Recursos: <br/>
+Sitio web oficial de EcoBici [https://www.ecobici.cdmx.gob.mx/](https://www.ecobici.cdmx.gob.mx/){:target="_blank"} <br/>
+Datos abiertos [https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open-data](https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open-data){:target="_blank"}
+
+Sitio de Kaggle con los datos FAANG [https://www.kaggle.com/datasets/suddharshan/historical-stock-price-of-10-popular-companies](https://www.kaggle.com/datasets/suddharshan/historical-stock-price-of-10-popular-companies)]{:target="_blank"} <br/>
+Sitio de Kaggle con los datos SP500 [https://www.kaggle.com/code/thomasrahman/s-p-500-5-stock-data-kmeans-clustering](https://www.kaggle.com/code/thomasrahman/s-p-500-5-stock-data-kmeans-clustering){:target="_blank"}
+
+
+  **No.**  | **Fecha**    | **Tópicos**                                                         | **Material**
+  -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
+  P1       | 07.03.2022   | Aviso del primer proyecto <br/> [Proyecto 1](proyecto/proyecto1.pdf){:target="_blank"} | Coordenadas de estaciones <br/> [stations.json](proyecto/stations.json){:target="_blank"} [stations.csv](proyecto/stations.csv){:target="_blank"}  
+  .        | 11.04.2022   | Presentaciones                                                      | 
+  .        | 13.04.2022   | Presentaciones                                                      | 
+  .        | 14.04.2022   | Entrega del reporte, código y presentación.                         | 
+
+
 # Referencias
 <div id='id-ref'/>
 
