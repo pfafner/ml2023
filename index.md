@@ -43,6 +43,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   L3       | 02.03.2023   | Lista 03.                                  | [Lista 03](listas/lista03.pdf){:target="_blank"} [wine.csv](listas/wine.csv){:target="_blank"} [hpi-data-2016.xlsx](listas/hpi-data-2016.xlsx){:target="_blank"} <br/> **Fecha de Entrega: martes 14 de marzo.** 
   15        | 07.03.2023   | *Clustering*. Agrupamiento jerárquico. <br/>   |  
   16        | 09.03.2023   | Ejemplos de agrupamiento jerárquico. <br/>   |  
+  17        | 14.03.2023   | K-means, K-medians, y K-medoids. <br/>   |  
   
 
 # Material adicional (scripts)
