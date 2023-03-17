@@ -44,6 +44,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   15        | 07.03.2023   | *Clustering*. Agrupamiento jerárquico. <br/>   |  
   16        | 09.03.2023   | Ejemplos de agrupamiento jerárquico. <br/>   |  
   17        | 14.03.2023   | K-means, K-medians, y K-medoids. <br/>   |  
+  18        | 16.03.2023   | Ejemplos de K-means. <br/>   |  
   
 
 # Material adicional (scripts)
