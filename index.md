@@ -45,6 +45,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   16        | 09.03.2023   | Ejemplos de agrupamiento jerárquico. <br/>   |  
   17        | 14.03.2023   | K-means, K-medians, y K-medoids. <br/>   |  
   18        | 16.03.2023   | Ejemplos de K-means. <br/>   |  
+  19        | 21.03.2023   |                              |  
   
 
 # Material adicional (scripts)
