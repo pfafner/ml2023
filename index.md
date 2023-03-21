@@ -66,7 +66,6 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   13       | 28.02.2023   | Ejemplo de SOM con pingüinos.                       | [aula13.ipynb](scripts/aula13.ipynb){:target="_blank"}  
   14       | 09.03.2023   | Ejemplos de agrupamiento jerárquico.                | [aula14.ipynb](scripts/aula14.ipynb){:target="_blank"} [horse.jpg](scripts/horse.jpg){:target="_blank"} [tree.jpg](scripts/tree.jpg){:target="_blank"}
   15       | 16.03.2023   | Ejemplo de k-means.                                 | [aula15.ipynb](scripts/aula15.ipynb){:target="_blank"} [horse.jpg](scripts/horse.jpg){:target="_blank"} [tree.jpg](scripts/tree.jpg){:target="_blank"}
-  
 
 # Primer Proyecto
 <div id='id-prj1'/>
