@@ -64,6 +64,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   11       | 21.02.2023   | Kernel PCA, y extensiones.                          | [aula11.ipynb](scripts/aula11.ipynb){:target="_blank"} 
   12       | 23.02.2023   | *Manifold Learning*: UMap, t-SNE, IsoMap.           | [aula12a.ipynb](scripts/aula12a.ipynb){:target="_blank"} [aula12b.ipynb](scripts/aula12b.ipynb){:target="_blank"} 
   13       | 28.02.2023   | Ejemplo de SOM con pingüinos.                       | [aula13.ipynb](scripts/aula13.ipynb){:target="_blank"}  
+  14       | 09.03.2023   | Ejemplos de agrupamiento jerárquico.                | [aula14.ipynb](scripts/aula14.ipynb){:target="_blank"} [horse.jpg](scripts/horse.jpg){:target="_blank"} [tree.jpg](scripts/tree.jpg){:target="_blank"}
+  15       | 16.03.2023   | Ejemplo de k-means.                                 | [aula15.ipynb](scripts/aula15.ipynb){:target="_blank"} [horse.jpg](scripts/horse.jpg){:target="_blank"} [tree.jpg](scripts/tree.jpg){:target="_blank"}
   
 
 # Primer Proyecto
