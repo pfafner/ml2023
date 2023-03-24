@@ -45,7 +45,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   16        | 09.03.2023   | Ejemplos de agrupamiento jerárquico. <br/>   | Ver *aula13.ipynb*. 
   17        | 14.03.2023   | K-means, K-medians, y K-medoids. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"}  |  
   18        | 16.03.2023   | Ejemplos de K-means. <br/>   | Ver *aula15.ipynb*. 
-  19        | 21.03.2023   |                              |  
+  19        | 21.03.2023   | Métodos basados en densidad. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} |  
   
 
 # Material adicional (scripts)
