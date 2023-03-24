@@ -46,6 +46,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   17        | 14.03.2023   | K-means, K-medians, y K-medoids. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"}  |  
   18        | 16.03.2023   | Ejemplos de K-means. <br/>   | Ver *aula15.ipynb*. 
   19        | 21.03.2023   | Métodos basados en densidad. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} |  
+  20        | 23.03.2023   | Métricas para algoritmos de agrupamiento. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} |  
   
 
 # Material adicional (scripts)
