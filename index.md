@@ -73,7 +73,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   15       | 16.03.2023   | Ejemplo de k-means.                                 | [aula15.ipynb](scripts/aula15.ipynb){:target="_blank"} [horse.jpg](scripts/horse.jpg){:target="_blank"} [tree.jpg](scripts/tree.jpg){:target="_blank"}
   16       | 21.03.2023   | Métodos basados en densidad: Mean-Shift, DBSCAN, OPTICS, BIRCH. | [density-based.ipynb](scripts/density-based.ipynb){:target="_blank"} [comparison.ipynb](scripts/comparison.ipynb){:target="_blank"} 
   17       | 23.03.2023   | Métricas para algoritmos de agrupamiento. | [clustering-metrics.ipynb](scripts/clustering-metrics.ipynb){:target="_blank"} [silhouette.ipynb](scripts/silhouette.ipynb){:target="_blank"} 
-
+  18       | 28.03.2023   | Ejemplo de regresión logística. | [logistic.ipynb](scripts/logistic.ipynb){:target="_blank"} 
+  
 
 # Primer Proyecto
 <div id='id-prj1'/>
