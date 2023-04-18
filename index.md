@@ -47,7 +47,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   18        | 16.03.2023   | Ejemplos de K-means. <br/>   | Ver *aula15.ipynb*. 
   19        | 21.03.2023   | Métodos basados en densidad. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | Ver *density-based.ipynb*, *comparison.ipynb*. 
   20        | 23.03.2023   | Métricas para algoritmos de agrupamiento. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Ver *clustering-metrics.ipynb*, *silhouette.ipynb*. 
-  21        | 28.03.2023   | Regresión Logística.     | 
+  21        | 28.03.2023   | Regresión Logística. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Ver *logistic.ipynb*. 
   22        | 11.04.2023   | Presentaciones primer proyecto.        | 
   23        | 13.04.2023   | Presentaciones primer proyecto.        | 
   
