@@ -50,7 +50,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   21        | 28.03.2023   | Regresión Logística. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Ver *logistic.ipynb*. 
   22        | 11.04.2023   | Presentaciones primer proyecto.        | 
   23        | 13.04.2023   | Presentaciones primer proyecto.        | 
-  24        | 18.04.2023   | K-vecinos más cercanos *KNN*.        |  
+  24        | 18.04.2023   | K-vecinos más cercanos *KNN*. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Ver *knn.ipynb*. 
  
 
 # Material adicional (scripts)
