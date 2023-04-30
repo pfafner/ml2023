@@ -75,6 +75,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   17       | 23.03.2023   | Métricas para algoritmos de agrupamiento. | [clustering-metrics.ipynb](scripts/clustering-metrics.ipynb){:target="_blank"} [silhouette.ipynb](scripts/silhouette.ipynb){:target="_blank"} 
   18       | 28.03.2023   | Ejemplo de regresión logística. | [logistic.ipynb](scripts/logistic.ipynb){:target="_blank"} 
   19       | 18.04.2023   | Ejemplo de clasificador KNN. | [knn.ipynb](scripts/knn.ipynb){:target="_blank"} 
+  19       | 18.04.2023   | Ejemplo de clasificador KNN. | [knn.ipynb](scripts/knn.ipynb){:target="_blank"} 
+  19       | 18.04.2023   | Ejemplo de clasificador KNN. | [knn.ipynb](scripts/knn.ipynb){:target="_blank"} 
   
 
 # Primer Proyecto
@@ -102,9 +104,9 @@ Sitio de Kaggle con los datos SP500 [https://www.kaggle.com/code/thomasrahman/s-
 
   **No.**  | **Fecha**    | **Expositores**                                                            | **Tópicos**
   -------- | ------------ | -------------------------------------------------------------------------- | -------------------------------------
-  01       | 11.04.2021   | Pedro Pablo Beltranena, Andrés Martínez, Nickolas Nolte, Esteban Samayoa   | S&P 500 <br/> [Presentación](seminario1/S&P500.pdf){:target="_blank"}
-  02       | 11.04.2021   | Cruz Del Cid, Daniel Behar, Javier Mazariegos, Marcela Melgar              | Ecobici <br/> [Presentación](seminario1/Ecobici.pdf){:target="_blank"}
-  03       | 13.04.2021   | Carlos Alvarado, Mario Pisquiy, Luz Arévalo, Lorena Pérez                  | FAANG+5 Companies <br/> [Presentación](seminario1/Faang.pdf){:target="_blank"}
+  01       | 11.04.2021   | Pedro Pablo Beltranena, Andrés Martínez, Nickolas Nolte, Esteban Samayoa   | S&P 500 <br/> [Presentación](proyecto1/S&P500.pdf){:target="_blank"}
+  02       | 11.04.2021   | Cruz Del Cid, Daniel Behar, Javier Mazariegos, Marcela Melgar              | Ecobici <br/> [Presentación](proyecto1/Ecobici.pdf){:target="_blank"}
+  03       | 13.04.2021   | Carlos Alvarado, Mario Pisquiy, Luz Arévalo, Lorena Pérez                  | FAANG+5 Companies <br/> [Presentación](proyecto1/Faang.pdf){:target="_blank"}
 
 
 # Segundo Proyecto
