@@ -97,6 +97,16 @@ Sitio de Kaggle con los datos SP500 [https://www.kaggle.com/code/thomasrahman/s-
   .        | 14.04.2023   | Entrega del reporte, código y presentación.                         | 
 
 
+# Presentaciones del primer proyecto
+<div id='id-sem1'/>
+
+  **No.**  | **Fecha**    | **Expositores**                                                            | **Tópicos**
+  -------- | ------------ | -------------------------------------------------------------------------- | -------------------------------------
+  01       | 11.04.2021   | Pedro Pablo Beltranena, Andrés Martínez, Nickolas Nolte, Esteban Samayoa   | S&P 500 <br/> [Presentación](seminario1/S&P500.pdf){:target="_blank"}
+  02       | 11.04.2021   | Cruz Del Cid, Daniel Behar, Javier Mazariegos, Marcela Melgar              | Ecobici <br/> [Presentación](seminario1/Ecobici.pdf){:target="_blank"}
+  03       | 13.04.2021   | Carlos Alvarado, Mario Pisquiy, Luz Arévalo, Lorena Pérez                  | FAANG+5 Companies <br/> [Presentación](seminario1/Faang.pdf){:target="_blank"}
+
+
 # Segundo Proyecto
 <div id='id-prj2'/>
 
