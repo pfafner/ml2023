@@ -52,6 +52,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   23        | 13.04.2023   | Presentaciones primer proyecto.        | 
   24        | 18.04.2023   | K-vecinos más cercanos *KNN*. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Ver *knn.ipynb*. 
   25        | 20.04.2023   | Probabilidad condicional. Regla de Bayes.  |
+  26        | 25.04.2023   | Clasificador *Naïve* Bayes. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Ver *bayes.ipynb*. 
   
  
 
