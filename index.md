@@ -54,7 +54,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   25        | 20.04.2023   | Probabilidad condicional. Regla de Bayes.  |
   26        | 25.04.2023   | Clasificador *Naïve* Bayes. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Ver *bayes.ipynb*. 
   27        | 27.04.2023   | Redes Neuronales: Historia. Redes multicapa. <br/>  |  
-  
+  28        | 02.05.2023   | Implementación en Keras. Ejemplo de red multicapa. <br/>  |  
  
 
 # Material adicional (scripts)
