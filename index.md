@@ -55,6 +55,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   26        | 25.04.2023   | Clasificador *Naïve* Bayes. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Ver *bayes.ipynb*. 
   27        | 27.04.2023   | Redes Neuronales: Historia. Redes multicapa. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | 
   28        | 02.05.2023   | Implementación en Keras. Ejemplo de red multicapa. <br/> |  [Day1.rar](scripts/Day1.rar){:target="_blank"}
+  29        | 04.05.2023   | Redes multicapa. *Stochastic gradient descent* vs. *Batch gradient descent*. Optimizadores. | [](){:target="_blank"} <br/> [https://www.ruder.io/optimizing-gradient-descent/](https://www.ruder.io/optimizing-gradient-descent/){:target="_blank"}
  
 
 # Material adicional (scripts)
