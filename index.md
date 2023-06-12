@@ -117,13 +117,13 @@ Sitio de Kaggle con los datos SP500 [https://www.kaggle.com/code/thomasrahman/s-
 Tema Libre. <br/>
 Recursos: Buscar repositorios de Machine Learning, de Bases de datos o Competencias (e.g. Kaggle), para tomar ideas de proyectos. <br/>
 
-  **No.**  | **Fecha**       | **Tópicos**                                                         | **Material**
-  -------- | --------------- | ------------------------------------------------------------------- |  -------------------------------------
-  P2       | 13.04.2023      | Aviso del segundo proyecto <br/> [Proyecto 2](proyecto/Proyecto2_2023.pdf){:target="_blank"} |  
-  .        | 28.04.2023      | Último día para tener elegido tema y datos.                         | 
-  .        | 11.05.2023      | Entrega de borrador del proyecto.                                   | 
-  .        | 18.05.2023      | Presentaciones                                                      | 
-  .        | 19.05.2023      | Entrega del reporte, código y presentación.                         | 
+  **No.**  | **Fecha**       | **Tópicos**                                                         
+  -------- | --------------- | ------------------------------------------------------------------- 
+  P2       | 13.04.2023      | [Proyecto 2](proyecto/Proyecto2_2023.pdf){:target="_blank"} 
+  .        | 28.04.2023      | Último día para tener elegido tema y datos  
+  .        | 11.05.2023      | Entrega de borrador del proyecto 
+  .        | 18.05.2023      | Presentaciones 
+  .        | 19.05.2023      | Entrega del reporte, código y presentación 
 
 # Presentaciones del segundo proyecto
 <div id='id-sem1'/>
