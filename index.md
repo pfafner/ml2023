@@ -95,12 +95,12 @@ Sitio de Kaggle con los datos FAANG [https://www.kaggle.com/datasets/suddharshan
 Sitio de Kaggle con los datos SP500 [https://www.kaggle.com/code/thomasrahman/s-p-500-5-stock-data-kmeans-clustering](https://www.kaggle.com/code/thomasrahman/s-p-500-5-stock-data-kmeans-clustering){:target="_blank"}
 
 
-  **No.**  | **Fecha**    | **Tópicos**                                                         | **Material**
-  -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  P1       | 07.03.2023   | Aviso del primer proyecto <br/> [Proyecto 1](proyecto/Proyecto1_2023.pdf){:target="_blank"} | Coordenadas de estaciones <br/> [stations.json](proyecto/stations.json){:target="_blank"} [stations.csv](proyecto/stations.csv){:target="_blank"}  
-  .        | 11.04.2023   | Presentaciones                                                      | 
-  .        | 13.04.2023   | Presentaciones                                                      | 
-  .        | 14.04.2023   | Entrega del reporte, código y presentación.                         | 
+  **No.**  | **Fecha**    | **Tópicos**                                                         
+  -------- | ------------ | ------------------------------------------------------------------- 
+  P1       | 07.03.2023   | [Proyecto 1](proyecto/Proyecto1_2023.pdf){:target="_blank"} <br/> Coordenadas de estaciones [stations.json](proyecto/stations.json){:target="_blank"} [stations.csv](proyecto/stations.csv){:target="_blank"} 
+  .        | 11.04.2023   | Presentaciones 
+  .        | 13.04.2023   | Presentaciones 
+  .        | 14.04.2023   | Entrega del reporte, código y presentación 
 
 # Presentaciones del primer proyecto
 <div id='id-sem1'/>
